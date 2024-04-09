@@ -1,4 +1,4 @@
-<h1 align="center">Hi'mmm 👋 Nuno</h1>
+<h1 align="center">Hi'mmm Nuno 👋</h1>
 <h3 align="center">Crafting Immersive Digital Experiences</h3>
 
 <h3 align="left">Let's connect</h3>
