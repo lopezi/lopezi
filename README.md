@@ -1,5 +1,3 @@
-Here's a unique and engaging `README.md` content for your GitHub profile that highlights your experience and skills while giving visitors a clear idea of your professional journey and aspirations:
-
 ```markdown
 # 👋 Hello, I'm Nuno Brito Lopes!
 
