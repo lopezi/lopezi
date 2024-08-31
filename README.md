@@ -1,5 +1,5 @@
 ```markdown
-# 👋 Hello, I'm Nuno Brito Lopes!
+# 👋 Hello, I'm Nuno!
 
 Welcome to my GitHub! I'm a seasoned IT professional with over 10 years of experience in user interface design, product development, and emerging technologies like Web3 and blockchain. My passion lies in blending creativity with technical prowess to build innovative, user-centric digital experiences that stand out.
 
