@@ -48,12 +48,9 @@ I'm aiming to step into a senior leadership role such as Head of Product or Chie
 
 ## 📫 Let's Connect!
 Feel free to reach out to me:
-- **Email**: n@lopezi.com
 - **Website**: [lopezi.com](https://lopezi.com)
 - **LinkedIn**: [Nuno Brito Lopes](https://www.linkedin.com/in/nunobritolopes)
 - **Twitter**: [@2n1u0](https://twitter.com/2n1u0)
 
 Thanks for visiting, and I look forward to collaborating on future projects!
 ```
-
-This `README.md` content is designed to give visitors a comprehensive overview of your experience and skills while also making it easy for them to connect with you or explore your work further.
